@@ -4,4 +4,5 @@ greeting = "Hello World"
 filter_parameter_logging
 
 greeting = "Hello World"
-puts #{greeting
+puts "#{greeting}."
+filter_parameter_logging
