@@ -6,3 +6,4 @@ filter_parameter_logging
 greeting = "Hello World"
 puts "#{greeting}."
 filter_parameter_logging
+greeting = "Hello World"
